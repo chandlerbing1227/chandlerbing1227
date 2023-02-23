@@ -1,3 +1,5 @@
+![MasterHead](https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif)
+
 <h1 align="center">Hi 👋, I'm Krunal Chauhan</h1>
 <h3 align="center">Have a very good knowledge of Ai,ml,dl and currently trying to become a data scientist.</h3>
 
